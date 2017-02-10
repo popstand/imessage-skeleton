@@ -1,4 +1,18 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Messages-App-Store1.sticker"
+    },
+    {
+      "filename" : "Messages-App-Store2.sticker"
+    },
+    {
+      "filename" : "Messages-App-Store3.sticker"
+    },
+    {
+      "filename" : "Messages-App-Store4.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
